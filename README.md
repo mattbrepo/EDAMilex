@@ -25,8 +25,8 @@ Considering the "Share of GDP", here's the number of countries that spent more i
 * 2000-2010: 5 countries
 * 2000-2015: 4 countries
 
-![Example](/images/example1.png)
+![Example](/images/example1.jpg)
 
 Here's the average of the considered countries year by year:
 
-![Example](/images/example2.png)
+![Example](/images/example2.jpg)
