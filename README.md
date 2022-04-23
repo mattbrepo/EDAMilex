@@ -6,7 +6,7 @@ Exploratory data analysis ([EDA](https://en.wikipedia.org/wiki/Exploratory_data_
 **Start: 2022**
 
 ## Why
-I wanted to have a look at the military expenditure of a few European countries of 2016-2020 period compared to the previous 15 years (2000-2015).
+I wanted to have a look at the military expenditure of a few European countries comparing the 2016-2020 period to the previous 15 years.
 
 ```r
 > countries
