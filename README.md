@@ -1,5 +1,5 @@
 # EDAMilex
-Exploratory data analysis ([EDA](https://en.wikipedia.org/wiki/Exploratory_data_analysis)) on [Military Expenditure](https://www.sipri.org/databases/milex)
+Exploratory data analysis ([EDA](https://en.wikipedia.org/wiki/Exploratory_data_analysis)) on [Military Expenditure](https://www.sipri.org/databases/milex) in R
 
 **Language: R**
 
@@ -15,7 +15,6 @@ I wanted to have a look at the military expenditure of a few European countries 
 [11] "Greece"      "Italy"       "Netherlands" "Norway"      "Portugal"   
 [16] "Spain"       "UK"
 ```
-
 
 ## Example
 
