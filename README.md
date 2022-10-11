@@ -1,5 +1,5 @@
 # EDAMilex
-Exploratory data analysis ([EDA](https://en.wikipedia.org/wiki/Exploratory_data_analysis)) on [Military Expenditure](https://www.sipri.org/databases/milex) in R
+Exploratory data analysis ([EDA](https://en.wikipedia.org/wiki/Exploratory_data_analysis)) on [Military Expenditure](https://www.sipri.org/databases/milex).
 
 **Language: R**
 
